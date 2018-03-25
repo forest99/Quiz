@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="dom1" translatable="true">F1 was born in 1950?</string>
+    <string name="dom2" translatable="true">Hamilton has won 5 times in Montreal?</string>
+    <string name="dom3" translatable="true">Did Hamilton have 6 pole positions in Melbourne?</string>
+    <string name="dom4" translatable="true">Has Michael Schumacher the highest percentage of career victory?</string>
+    <string name="dom5" translatable="true">Is Fagioli the oldest driver to have won a GP?</string>
+    <string name="dom6" translatable="true">Is the Ascari record the best percentage of victories in a season?</string>
+    <string name="dom7" translatable="true">The record for the most points belongs to Hamilton?</string>
+    <string name="dom8" translatable="true">The record of the largest number of first files belongs to Schumacher?</string>
+    <string name="dom9" translatable="true">The record of the highest number of GP without laps in the head belongs to Hulkenberg?</string>
+    <string name="dom10" translatable="true">Has Schumacher achieved the most points in his career?</string>
+</resources>

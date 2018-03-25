@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="dom1">La F1 è nata nel 1950?</string>
+    <string name="dom2">Hamilton ha vinto 5 volte a Montreal?</string>
+    <string name="dom3">Hamilton ha fatto 6 pole a Melbourne?</string>
+    <string name="dom4">Ha Micheal Schumacher la maggior percentuale di vittoria in carriera?</string>
+    <string name="dom5">E Fagioli ad essere il pilota più anziano ad aver vinto un GP?</string>
+    <string name="dom6">E di Ascari il record di miglior percentuale di vittorie in una stagione?</string>
+    <string name="dom7">Il record del maggior numero di punti appartiene a Hamilton?</string>
+    <string name="dom8">Il record del maggior numero di prime file appartiene a Schumacher?</string>
+    <string name="dom9">Il record di maggior numero di GP senza giri in testa appartiene a Hulkenberg?</string>
+    <string name="dom10">Schumacher ha realizzato il maggior numero di punti nella sua carriera ?</string>
+
+</resources>
